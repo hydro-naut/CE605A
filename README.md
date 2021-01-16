@@ -1,5 +1,9 @@
 # CE605A-Probability
 
+This repository contains all my solutions to the python projects for the course CE605A: PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS at IIT Kapur Odd Sem 2020
+
+Following are the questions:
+
 Q1: Monty Hall paradox: Solve the Monty Hall problem by performing MonteCarlo simulations plot the probability of winning for both options for number
     of simulations ranging between 100 and 1000.
     
