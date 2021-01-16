@@ -1,6 +1,6 @@
 # CE605A: PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS
 
-This repository contains all my solutions to the python projects for the course CE605A: PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS at IIT Kapur Odd Sem 2020
+This repository contains all my solutions to the python projects for the course CE605A: PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS at IIT Kapur 1st_Sem_2020
 
 Following are the questions:
 
